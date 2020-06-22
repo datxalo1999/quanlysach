@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "quanlybook", "quanlybook\quanlybook.csproj", "{686A32EE-A935-4DDB-82D7-877114E6CA93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{686A32EE-A935-4DDB-82D7-877114E6CA93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{686A32EE-A935-4DDB-82D7-877114E6CA93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{686A32EE-A935-4DDB-82D7-877114E6CA93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{686A32EE-A935-4DDB-82D7-877114E6CA93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9492B4A2-3A74-4138-AB65-0079647B3F1D}
+	EndGlobalSection
+EndGlobal
